@@ -1,6 +1,7 @@
 # Terminal Fun
 
-Collection of various terminal tools and effects.
+You want your terminal to be awesome? Obsessed with pushing text mode to its limits?
+This is a collection of various terminal tools and effects to help you on your quest.
 
 
 ## Effects & Visuals
@@ -14,6 +15,7 @@ These are mostly useless but very pretty.
 - [lolcat](https://github.com/busyloop/lolcat) – Rainbows and unicorns! Transforms text into rainbow colors.
 - [parrotsay](https://github.com/matheuss/parrotsay) – The Party Parrot on your terminal.
 - [rice](https://github.com/janbrennen/rice) – rice, hax, etc.
+- [drawille](https://github.com/asciimoo/drawille) – Pixel graphics in terminal with unicode braille characters.
 - [cmatrix](https://github.com/abishekvashok/cmatrix) – Terminal based "The Matrix" like implementation.
 
 
