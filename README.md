@@ -29,6 +29,7 @@ Useful tools but pretty nevertheless.
 - [gtop](https://github.com/aksakalli/gtop) – System monitoring dashboard for terminal.
 - [vtop](https://github.com/MrRio/vtop) – Wow such top. So stats. More better than regular top.
 - [htop](https://github.com/hishamhm/htop) – htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+- [s-tui](https://github.com/amanusk/s-tui) – Terminal-based CPU stress and monitoring utility.
 - [wavemon](https://github.com/uoaerg/wavemon) – wavemon is an ncurses-based monitoring application for wireless network devices.
 - [ngxtop](https://github.com/lebinh/ngxtop) – Real-time metrics for nginx server.
 
